@@ -13,7 +13,7 @@ The program converts amounts between supported currencies using **INR** as the b
 * **Program:** BCA AI/ML (In Association with Google)
 * **Session:** 2026-27
 * **Institution:** Rungta International Skills University (School of Information Technology)
-* **Submitted To:** Satyaprakash Sir
+* **Submitted To:** @SATYAPRAKASHSETHY (Satyaprakash Sir)
 
 ---
 
